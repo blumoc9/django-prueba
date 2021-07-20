@@ -1,0 +1,8 @@
+#ide's
+.idea
+/bin
+/lib
+/share
+/lib64
+/venv
+/include
