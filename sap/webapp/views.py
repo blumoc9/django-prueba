@@ -6,7 +6,7 @@ from django.http import HttpResponse, JsonResponse
 # Create your views here.
 
 def welcome(request):
-    return HttpResponse('Hello world from django')
+    return HttpResponse('Welcome to django world')
 
 
 def contact(request):
